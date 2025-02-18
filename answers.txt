@@ -10,3 +10,10 @@ Answer: Data Science could be applied to the health care field because in the
         health care field there is a big need to obtain a lot of data about 
         people and their health conditions, to then be able to conduct research,
         which is where data science can be applied.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging takes two branches and attempts to combines the changes from 
+        both branches. Rebasing takes one branch's whole version history and put
+        it on another branch.
+        
